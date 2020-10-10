@@ -10,6 +10,10 @@
 </p>
 <p align="left">
   <p align="left">A passionate junior iOS developer from Egypt</p>
+  - 🔭 I’m currently working as **iOS Developer @ LODEX Solution**
+  - 🌱 I’m currently learning **SwiftUI**
+  - 👯 Eager programming new technologies
+  - 🤔 I’m looking for working in a productive and creative team.
 </p>
 
 ##### Some of the technologies I have worked with
