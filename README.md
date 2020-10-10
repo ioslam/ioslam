@@ -12,7 +12,7 @@
   <p align="left">A passionate junior iOS developer from Egypt</p>
 </p>
 
-- 🔭 I’m currently working as **iOS Developer @ LODEX Solution**
+- 🔭 I’m currently working as **iOS Developer @ <a href="https://lodex-solutions.com/en" style="color:'#000'">LODEX Solution</a>**
 - 🌱 I’m currently learning **SwiftUI**
 - 👯 Eager programming new technologies
 - 🤔 I’m looking for working in a productive and creative team.
