@@ -13,7 +13,7 @@
 </p>
 
 - 🔭 I’m currently working as **iOS Developer @ <a href="https://lodex-solutions.com/en">LODEX Solution</a>**
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning <img src="https://github.com/ioslam/ioslam/blob/main/swiftui.png" width="15px"> **SwiftUI**
 - 👯 Eager programming new technologies
 - 🤔 I’m looking for working in a productive and creative team.
 
