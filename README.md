@@ -28,7 +28,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-222222?style=flat&logo=SQLite)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 ![PHP](https://img.shields.io/badge/PHP-222222?style=flat&logo=php)
@@ -40,4 +39,4 @@
 ![CSS](https://img.shields.io/badge/CSS3-222222?style=flat&logo=css3)
 ![JS](https://img.shields.io/badge/JavaScript-222222?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=flat&logo=bootstrap)
-![jQuery](https://img.shields.io/badge/jQuery-222222?style=flat&logo=jquery)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
