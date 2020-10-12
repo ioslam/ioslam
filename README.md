@@ -9,12 +9,12 @@
   </p>
 </p>
 <p align="left">
-  <p align="left">A passionate junior iOS developer from Egypt</p>
+  <p align="left">A passionate iOS developer from Egypt</p>
 </p>
 
 - 🔭 I’m currently working as **iOS Developer @ <a href="https://lodex-solutions.com/en">LODEX Solution</a>**
 - 🌱 I’m currently learning **SwiftUI** <img src="https://github.com/ioslam/ioslam/blob/main/swiftui.png" width="12px">
-- 👯 Eager programming new technologies
+- 👯 Eager to learn new technologies
 - 🤔 I’m looking for working in a productive and creative team.
 
 ##### Some of the technologies I have worked with
