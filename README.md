@@ -12,7 +12,7 @@
   <p align="left">A passionate iOS developer from Egypt</p>
 </p>
 
-- 🔭 I’m currently working as **iOS Developer @ <a href="https://lodex-solutions.com/en">LODEX Solution</a>**
+- 🔭 I’m currently working as **iOS Developer @ <a href="https://lodex-solutions.com/en">LODEX Solutions</a>**
 - 🌱 I’m currently learning **SwiftUI** <img src="https://github.com/ioslam/ioslam/blob/main/swiftui.png" width="12px">
 - 👯 Eager to learn new technologies
 - 🤔 I’m looking for working in a productive and creative team.
