@@ -12,7 +12,7 @@
   <p align="left">A passionate iOS developer from Egypt</p>
 </p>
 
-- 🔭 I’m currently working as **iOS Developer @ <a href="https://brightskiesinc.com">BrightSkies Inc.</a>** ![](https://brightskiesinc.com/wp-content/themes/brightskies/img/favicon.ico)
+- 🔭 I’m currently working as **iOS Developer @ <a href="https://brightskiesinc.com">BrightSkies Inc.</a>** <img src="https://brightskiesinc.com/wp-content/themes/brightskies/img/favicon.ico" width="25px">
 - 🌱 I’m currently learning **SwiftUI** <img src="https://github.com/ioslam/ioslam/blob/main/swiftui.png" width="12px">
 - 👯 Eager to learn new technologies
 - 🤔 I’m looking for working in a productive and creative team.
